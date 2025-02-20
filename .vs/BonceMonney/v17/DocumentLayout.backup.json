@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\BonceMonney\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33260EB6-3AC1-8890-8A53-B712B16E697B}|Assembly-CSharp.csproj|d:\\unityproject\\boncemonney\\assets\\base\\3party\\best http (pro)\\examples\\litjson\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33260EB6-3AC1-8890-8A53-B712B16E697B}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\3party\\best http (pro)\\examples\\litjson\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33260EB6-3AC1-8890-8A53-B712B16E697B}|Assembly-CSharp.csproj|d:\\unityproject\\boncemonney\\assets\\base\\00_basecode\\scripts\\analytic\\remoteconfigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33260EB6-3AC1-8890-8A53-B712B16E697B}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\analytic\\remoteconfigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "D:\\UnityProject\\BonceMonney\\Assets\\Base\\3Party\\Best HTTP (Pro)\\Examples\\LitJson\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\3Party\\Best HTTP (Pro)\\Examples\\LitJson\\NewBehaviourScript.cs",
+              "ToolTip": "D:\\UnityProject\\BonceMonney\\Assets\\Base\\3Party\\Best HTTP (Pro)\\Examples\\LitJson\\NewBehaviourScript.cs*",
+              "RelativeToolTip": "Assets\\Base\\3Party\\Best HTTP (Pro)\\Examples\\LitJson\\NewBehaviourScript.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:57:37.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoteConfigController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\BonceMonney\\Assets\\Base\\00_BaseCode\\Scripts\\Analytic\\RemoteConfigController.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Analytic\\RemoteConfigController.cs",
+              "ToolTip": "D:\\UnityProject\\BonceMonney\\Assets\\Base\\00_BaseCode\\Scripts\\Analytic\\RemoteConfigController.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Analytic\\RemoteConfigController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAABRwHUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T02:41:30.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
